@@ -18,20 +18,20 @@
 </p>
 
 ### 🌟 My GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/SwordHand/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SwordHand&show_icons=true&theme=ambient_gradient&locale=cn&custom_title=我的GitHub统计😎🤩&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/SwordHand/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwordHand&layout=donut&theme=ambient_gradient&langs_count=10&locale=cn" />
 </a>
 
 
 ### 🏆 LeetCode Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=SwordHand&theme=tokyonight&hide_border=%E7%9C%9F&border_radius=50&locale=zh_Hans&short_numbers=%E7%9C%9F&date_format=%5BY.%5Dn.j" />
+<a href="https://github.com/SwordHand">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=SwordHand&theme=tokyonight&hide_border=%E7%9C%9F&border_radius=50&locale=zh_Hans&short_numbers=%E7%9C%9F&date_format=%5BY.%5Dn.j&card_width=450" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/SwordHand">
   <img height=200 align="center" src="https://stats.justsong.cn/api/github?username=SwordHand&cn=true&lang=zh-CN" />
 </a>
 
