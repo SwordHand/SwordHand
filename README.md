@@ -17,15 +17,21 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-
-
 ### 🌟 My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SwordHand&show_icons=true&theme=ambient_gradient)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwordHand&layout=compact&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SwordHand&show_icons=true&theme=ambient_gradient&locale=cn&custom_title=我的GitHub统计😎🤩&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwordHand&layout=donut&theme=ambient_gradient&langs_count=10&locale=cn" />
+</a>
+
+
+
 
 
 
 ### 🏆 LeetCode Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=SwordHand)![](https://stats.justsong.cn/api/leetcode?username=SwordHand&cn=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SwordHand&theme=tokyonight&hide_border=%E7%9C%9F&border_radius=50&locale=zh_Hans&short_numbers=%E7%9C%9F&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)![](https://stats.justsong.cn/api/github?username=SwordHand&cn=true&lang=zh-CN)
 
 
 
@@ -33,5 +39,5 @@
 
 Feel free to explore my repositories and connect with me!
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwordHand&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwordHand&theme=react-dark)](https://github.com/SwordHand/github-readme-activity-graph)
 
