@@ -19,10 +19,10 @@
 ### 🛠️ Technology Stack
 
 <p align="center">
-  <!-- 使用 skill-icons 库，比普通的 shield 更有设计感 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,py,js,nodejs,react,mysql,git,github,flutter,docker&perline=6" />
-  </a>
+  <!-- 第一行：后端与语言 -->
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,py,js,ts,nodejs,mysql,redis&perline=10" /><br>
+  <!-- 第二行：前端与工具 -->
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,html,css,docker,linux,git,github,vscode,idea&perline=11" />
 </p>
 
 ---
