@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Technology Stack
+
 
 <p align="center">
   <!-- 第一行：后端与语言 -->
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Metrics
+
 <p align="center">
   <!-- 连续提交统计 -->
   <a href="https://github.com/SwordHand">
@@ -49,7 +49,7 @@
 
 ---
 
-### 📈 Contribution Graph
+
 <p align="center">
   <!-- 动态活动曲线图 -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SwordHand&theme=react-dark&hide_border=true&area=true" />
@@ -57,7 +57,7 @@
 
 ---
 
-### 🐍 Snake Animation
+
 <!-- 经典的贪吃蛇贡献图，如果你的仓库配置了 Action 自动生成，可以指向该地址 -->
 <!-- 暂时给你放一个动态占位，增加趣味性 -->
 <p align="center">
