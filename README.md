@@ -1,6 +1,6 @@
 <!-- 顶部动态 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=30&section=header&text=Hi,%20I'm%20SwordHand%20👋&fontSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&height=30&section=header&text=人生如戏&fontSize=20&animation=fadeIn" />
 </p>
 
 <!-- 动态打字简介 -->
