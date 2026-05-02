@@ -1,47 +1,68 @@
-## Hi there 👋
-
-![Visitor Count](https://profile-counter.glitch.me/SwordHand/count.svg)
-
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<!-- 顶部动态 Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart"/>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20SwordHand%20👋&fontSize=70&animation=fadeIn" />
 </p>
 
-### 🌟 My GitHub Stats
-<a href="https://github.com/SwordHand/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SwordHand&show_icons=true&theme=ambient_gradient&locale=cn&custom_title=我的GitHub统计😎🤩&rank_icon=github" />
-</a>
-<a href="https://github.com/SwordHand/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwordHand&layout=donut&theme=ambient_gradient&langs_count=10&locale=cn" />
-</a>
+<!-- 动态打字简介 -->
+<p align="center">
+  <a href="https://github.com/SwordHand">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FE&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwordHand&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
-### 🏆 LeetCode Stats
+---
 
-<a href="https://github.com/SwordHand">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=SwordHand&theme=tokyonight&hide_border=%E7%9C%9F&border_radius=50&locale=zh_Hans&short_numbers=%E7%9C%9F&date_format=%5BY.%5Dn.j&card_width=450" />
-</a>
-<a href="https://github.com/SwordHand">
-  <img height=200 align="center" src="https://stats.justsong.cn/api/github?username=SwordHand&cn=true&lang=zh-CN" />
-</a>
+### 🛠️ Technology Stack
 
+<p align="center">
+  <!-- 使用 skill-icons 库，比普通的 shield 更有设计感 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,py,js,nodejs,react,mysql,git,github,flutter,docker&perline=6" />
+  </a>
+</p>
 
+---
+
+### 📊 GitHub Metrics
+<p align="center">
+  <!-- 连续提交统计 -->
+  <a href="https://github.com/SwordHand">
+    <img height="180em" src="https://streak-stats.demolab.com?user=SwordHand&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <!-- 统计主卡片 - 采用 Tokyo Night 主题，更具高级感 -->
+  <a href="https://github.com/SwordHand/">
+    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=SwordHand&show_icons=true&theme=tokyonight&locale=cn&hide_border=true" />
+  </a>
+  <!-- 语言统计 - 甜甜圈图 -->
+  <a href="https://github.com/SwordHand/">
+    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SwordHand&layout=donut&theme=tokyonight&locale=cn&hide_border=true" />
+  </a>
+</p>
 
 
 
 ---
 
-Feel free to explore my repositories and connect with me!
+### 📈 Contribution Graph
+<p align="center">
+  <!-- 动态活动曲线图 -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SwordHand&theme=react-dark&hide_border=true&area=true" />
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwordHand&theme=react-dark)](https://github.com/SwordHand/github-readme-activity-graph)
+---
+
+### 🐍 Snake Animation
+<!-- 经典的贪吃蛇贡献图，如果你的仓库配置了 Action 自动生成，可以指向该地址 -->
+<!-- 暂时给你放一个动态占位，增加趣味性 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SwordHand/SwordHand/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
 
